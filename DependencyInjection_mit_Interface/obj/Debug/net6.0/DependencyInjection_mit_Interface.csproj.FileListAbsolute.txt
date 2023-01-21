@@ -1,0 +1,15 @@
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.csproj.AssemblyReference.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.AssemblyInfoInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.AssemblyInfo.cs
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.csproj.CoreCompileInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\DependencyInjection_mit_Interface.exe
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\DependencyInjection_mit_Interface.deps.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\DependencyInjection_mit_Interface.runtimeconfig.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\DependencyInjection_mit_Interface.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\ref\DependencyInjection_mit_Interface.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\bin\Debug\net6.0\DependencyInjection_mit_Interface.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\ref\DependencyInjection_mit_Interface.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\DependencyInjection_mit_Interface\DependencyInjection_mit_Interface\obj\Debug\net6.0\DependencyInjection_mit_Interface.genruntimeconfig.cache
