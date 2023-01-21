@@ -4,4 +4,7 @@ Hund h = new Hund();
 var pfleger = new Tierpfleger();
 h.Name = pfleger.setName();
 pfleger.setHund(h);
-Console.WriteLine(pfleger.h.ToString());
+Console.WriteLine("" +pfleger.h.ToString());
+
+
+Console.ReadKey();
